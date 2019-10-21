@@ -39,8 +39,8 @@ fields:
   config:
     required: true
 pages:
-- blog/posts/dexter/i-am-the-doctor.md
 - blog/posts/dexter/nobodys-taxi-service.md
+- blog/posts/dexter/i-am-the-doctor.md
 - blog/posts/futurama/good-news-everybody.md
 - blog/posts/futurama/leela-is-gonna-kill-me.md
 - blog/posts/futurama/when-will-that-be.md

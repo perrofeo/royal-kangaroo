@@ -1,16 +1,16 @@
 ---
 title: Did I mention we have comfy chairs?
-image: 'https://picsum.photos/1920/1080/?random&date=2018-10-09'
-publish: '2018-10-09'
+image: "/images/vlcsnap-2019-08-09-17h05m09s526.png"
+publish: 2018-10-09
 tags:
-  - father christmas
-  - simple
+- father christmas
+- simple
 categories:
-  - dexter
+- dexter
 readingTime: 9 Minutes
 type: post
----
 
+---
 Stop talking, brain thinking. Hush. It's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! You've swallowed a planet! I am the Doctor, and you are the Daleks! Sorry, checking all the water in this area; there's an escaped fish.
 
 <!-- more -->
